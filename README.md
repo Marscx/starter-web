@@ -20,4 +20,4 @@ Please fork this repository and then issue pull requests for review
 
 ## Copyright
 
-2019 marcscheidegger.ch
+2019 marcscheidegger.ch all rights reserved
